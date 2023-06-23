@@ -1,0 +1,23 @@
+{
+  "name": "nuxt-app",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18",
+    "nuxt": "^3.5.2"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.2.96",
+    "openai-streams": "^5.7.0",
+    "sass": "^1.63.4",
+    "vue-showdown": "^4.1.0",
+    "vuetify": "^3.3.3"
+  },
+  "license": "MIT"
+}
